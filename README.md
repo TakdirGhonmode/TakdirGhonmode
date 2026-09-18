@@ -1,53 +1,116 @@
+<!-- ===================== HERO ===================== -->
+
+<div align="center">
+
 # TAKDIR GHONMODE
 
-### Java Backend Developer
+### `JAVA BACKEND DEVELOPER`
 
-**Java • Spring Boot • REST APIs • MySQL • JPA / Hibernate**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=700&lines=Building+Java+Backend+Systems;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving;Turning+Logic+Into+Backend+Applications" />
 
-I build backend applications with **Java and Spring Boot**, focusing on REST APIs, database-driven applications, clean architecture, and practical problem solving.
+<br>
 
-Currently strengthening my skills in **Spring Boot, backend architecture, SQL, and DSA** through projects and consistent problem solving.
+<a href="https://github.com/TakdirGhonmode">
+<img src="https://img.shields.io/badge/GitHub-TakdirGhonmode-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/takdir-ghonmode-26a862318/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## `01` — BACKEND FOCUS
+<!-- ===================== IDENTITY ===================== -->
+
+## `> whoami`
 
 ```text
-Java
-  └── OOP & Core Java
-        └── Spring
-              └── Spring Boot
-                    ├── REST APIs
-                    ├── Dependency Injection
-                    ├── Layered Architecture
-                    └── Exception Handling
-                          │
-                          └── JPA / Hibernate
-                                │
-                                └── MySQL
+Name        : Takdir Ghonmode
+Role        : Java Backend Developer
+Primary     : Java + Spring Boot
+Database    : MySQL
+Focus       : REST APIs + Backend Systems
+Mindset     : Understand → Build → Debug → Improve
 ```
 
-### What I Work With
+I build backend applications using **Java and Spring Boot**, with a focus on REST APIs, database integration, clean code, and practical problem solving.
 
-* REST API Development
-* CRUD Applications
-* Database Integration
-* JPA / Hibernate
-* Dependency Injection
-* Layered Architecture
-* Exception Handling
-* API Testing with Postman
-* Git & GitHub Workflow
+I'm currently developing stronger foundations in **backend architecture, SQL, JPA/Hibernate, Spring Boot, and DSA** through hands-on projects and problem solving.
 
 ---
 
-## `02` — CURRENTLY BUILDING
+# `01` — THE BACKEND ENGINE
 
-### Backend Development
+<div align="center">
 
-> Building and improving Java + Spring Boot applications while learning how real backend systems are structured.
+```text
+                         ┌─────────────────────┐
+                         │       CLIENT        │
+                         │   Web / Postman     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      REST API       │
+                         │   Spring Boot       │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    SERVICE LAYER    │
+                         │   Business Logic    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   REPOSITORY LAYER  │
+                         │    JPA / Hibernate  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │       MySQL         │
+                         │      Database       │
+                         └─────────────────────┘
+```
 
-### Currently Improving
+</div>
+
+### Backend Focus
+
+`Java` · `Spring` · `Spring Boot` · `REST APIs` · `JPA` · `Hibernate` · `MySQL`
+
+### Engineering Concepts
+
+`OOP` · `Dependency Injection` · `Layered Architecture` · `CRUD` · `Exception Handling` · `Database Persistence` · `API Testing`
+
+---
+
+# `02` — CURRENTLY BUILDING
+
+<div align="center">
+
+### `> SYSTEM STATUS: ACTIVE`
+
+```text
+████████████████████████████████████████  100%
+
+Java                 ████████████████████
+Spring Boot          ██████████████████░░
+REST APIs            █████████████████░░░
+SQL / MySQL          ████████████████░░░░
+JPA / Hibernate      ██████████████░░░░░░
+Backend Architecture  ████████████░░░░░░░░
+DSA                  ███████████░░░░░░░░░
+```
+
+</div>
+
+### Current Mission
+
+Building practical backend applications while improving:
 
 * Advanced Java
 * Spring Boot
@@ -59,187 +122,261 @@ Java
 
 ---
 
-## `03` — FEATURED PROJECTS
+# `03` — FEATURED PROJECTS
 
-### Student Management API
+## `Student Management API`
 
-**Java • Spring Boot • JPA • MySQL • REST API**
+**Java · Spring Boot · JPA · MySQL · REST API**
 
 Backend application for managing student records through REST APIs and database persistence.
 
-**Focus:**
-`CRUD Operations` · `REST API` · `JPA/Hibernate` · `MySQL`
+```text
+REST API
+   ↓
+Spring Boot
+   ↓
+Service Layer
+   ↓
+JPA / Hibernate
+   ↓
+MySQL
+```
+
+**Focus:** `CRUD` · `REST API` · `JPA/Hibernate` · `MySQL`
 
 ---
 
-### Product Management API
+## `Product Management API`
 
-**Java • Spring Boot • REST API • MySQL**
+**Java · Spring Boot · REST API · MySQL**
 
 Backend application for managing products through API endpoints and persistent database storage.
 
-**Focus:**
-`API Development` · `CRUD` · `Database Integration` · `Postman`
+**Focus:** `API Development` · `CRUD` · `Database Integration` · `Postman`
 
 ---
 
-### E-Commerce Backend
+## `E-Commerce Backend`
 
-**Java • Spring Boot • JPA • MySQL**
+**Java · Spring Boot · JPA · MySQL**
 
-Backend development for an e-commerce application, focusing on product management, API development, database persistence, and backend functionality.
+Backend development for an e-commerce application with a focus on product management, API development and database persistence.
 
-**Focus:**
-`Spring Boot` · `REST APIs` · `JPA` · `MySQL`
-
----
-
-> More projects and improvements are continuously being added.
+**Focus:** `Spring Boot` · `REST APIs` · `JPA` · `MySQL`
 
 ---
 
-## `04` — PROBLEM SOLVING
+# `04` — PROBLEM SOLVING LAB
 
-I use DSA to improve the way I approach programming problems rather than only memorizing solutions.
+### `DSA ≠ Memorizing Code`
 
-### Currently Practicing
-
-* Arrays
-* Searching
-* Binary Search
-* Recursion
-* Backtracking
-* Subsequence Patterns
-* Problem-Solving Patterns
-
-### My Approach
+I focus on understanding the **pattern behind the problem**.
 
 ```text
-Understand the Problem
-          ↓
-Identify the Pattern
-          ↓
-Build the Logic
-          ↓
-Dry Run with an Example
-          ↓
-Write the Solution
-          ↓
-Analyze Complexity
-          ↓
-Improve
+             PROBLEM
+                │
+                ▼
+        Understand Input
+                │
+                ▼
+        Identify Pattern
+                │
+                ▼
+          Build Logic
+                │
+                ▼
+            Dry Run
+                │
+                ▼
+             Code
+                │
+                ▼
+       Analyze Complexity
+                │
+                ▼
+             Improve
 ```
+
+### Current DSA Topics
+
+`Arrays`
+
+`Searching`
+
+`Binary Search`
+
+`Recursion`
+
+`Backtracking`
+
+`Subsequences`
+
+`Problem-Solving Patterns`
 
 ---
 
-## `05` — DEVELOPER JOURNEY
+# `05` — MY DEVELOPER PATH
+
+<div align="center">
 
 ```text
-Core Java
-    ↓
-OOP
-    ↓
-SQL
-    ↓
-Spring
-    ↓
-Spring Boot
-    ↓
-REST APIs
-    ↓
-JPA / Hibernate
-    ↓
-Backend Projects
-    ↓
-DSA & Problem Solving
+       CORE JAVA
+           │
+           ▼
+          OOP
+           │
+           ▼
+          SQL
+           │
+           ▼
+        SPRING
+           │
+           ▼
+     SPRING BOOT
+           │
+           ▼
+       REST APIs
+           │
+           ▼
+   JPA / HIBERNATE
+           │
+           ▼
+  BACKEND PROJECTS
+           │
+           ▼
+ DSA + PROBLEM SOLVING
+           │
+           ▼
+      BACKEND ENGINEER
 ```
 
-The goal isn't to learn every technology.
-
-The goal is to become **strong at building reliable backend applications.**
+</div>
 
 ---
 
-## `06` — TECHNOLOGY STACK
+# `06` — TECHNOLOGY STACK
 
-### Backend
+### `BACKEND`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
+<p align="left">
 
-### Database
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+</p>
 
-### Tools
+### `TOOLS`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square\&logo=apache-tomcat\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+<p align="left">
 
-### Frontend — Supporting Skills
+<img src="https://skillicons.dev/icons?i=git,github,postman,tomcat" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+</p>
+
+### `FRONTEND — SUPPORTING`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
 
 ---
 
-## `07` — ENGINEERING MINDSET
+# `07` — ENGINEERING MINDSET
+
+<div align="center">
+
+### `BUILD → TEST → UNDERSTAND → REFACTOR → REPEAT`
+
+</div>
+
+I don't want to just make code work.
+
+I want to understand:
 
 ```text
-Build → Test → Understand → Refactor → Repeat
+Why does it work?
+        ↓
+What happens internally?
+        ↓
+What happens when it fails?
+        ↓
+Can the design be improved?
+        ↓
+Can the code be easier to maintain?
 ```
 
-I try to understand **why** something works before moving to the next problem.
-
-My current focus is developing the fundamentals required to build backend systems that are:
+My current goal is to become better at building backend systems that are:
 
 * Clear
 * Maintainable
+* Testable
 * Database-driven
 * API-oriented
-* Easy to test
 * Easy to improve
 
 ---
 
-## `08` — GITHUB
+# `08` — GITHUB ACTIVITY
 
-I use GitHub to document my learning through:
+<div align="center">
 
-* Backend Projects
-* DSA Practice
-* Java Experiments
-* Spring Boot Applications
-* Problem-Solving Implementations
+<img src="https://github-readme-stats.shion.dev/api?username=TakdirGhonmode&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
 
-### GitHub Activity
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TakdirGhonmode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="170"/>
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TakdirGhonmode\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
+<br><br>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TakdirGhonmode\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## `09` — CONNECT
+# `09` — CONTRIBUTION GRAPH
 
-I'm interested in connecting with developers, collaborating on backend projects, and learning through real-world development.
+<div align="center">
 
-**LinkedIn**
-[linkedin.com/in/takdir-ghonmode-26a862318](https://www.linkedin.com/in/takdir-ghonmode-26a862318/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TakdirGhonmode&theme=github-dark&hide_border=true" width="95%"/>
 
-**Instagram**
-[instagram.com/takdirghonmode3350](https://instagram.com/takdirghonmode3350)
-
-**GitHub**
-[github.com/TakdirGhonmode](https://github.com/TakdirGhonmode)
+</div>
 
 ---
 
-### `BUILDING BACKENDS. SOLVING PROBLEMS. LEARNING EVERY DAY.`
+# `10` — CONNECT
 
-<!-- Profile README maintained by Takdir Ghonmode -->
+<div align="center">
+
+### Let's build, learn and solve problems.
+
+<a href="https://github.com/TakdirGhonmode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/takdir-ghonmode-26a862318/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/takdirghonmode3350">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `JAVA → SPRING BOOT → BACKEND → PROBLEM SOLVING`
+
+**Building Backends. Solving Problems. Learning Every Day.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TakdirGhonmode&style=flat-square&color=6DB33F"/>
+
+</div>
+
+<!-- =====================================================
+     TAKDIR GHONMODE — JAVA BACKEND DEVELOPER
+     ===================================================== -->
