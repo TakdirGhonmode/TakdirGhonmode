@@ -1,9 +1,7 @@
+
 <div align="center">
 
-<!-- ================================================================= -->
-<!-- HERO BANNER                                                       -->
-<!-- ================================================================= -->
-
+<!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090e,60:0b1329,100:0284c7&height=220&section=header&text=TAKDIR%20GHONMODE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SYSTEMS&descFontSize=14&descFontColor=93c5fd&descAlignY=58&descAlign=50" width="100%" alt="Takdir Ghonmode Banner" />
 
 <!-- ANIMATED TYPING STREAM -->
@@ -34,10 +32,7 @@
 
 ---
 
-<!-- ================================================================= -->
-<!-- ARCHITECTURE FLOW                                                 -->
-<!-- ================================================================= -->
-
+<!-- ARCHITECTURE FLOW -->
 <div align="center">
 
 <a href="https://github.com/TakdirGhonmode">
@@ -48,10 +43,7 @@
 
 ---
 
-<!-- ================================================================= -->
-<!-- CATEGORIZED TECH STACK MATRIX                                     -->
-<!-- ================================================================= -->
-
+<!-- CATEGORIZED TECH STACK MATRIX -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1329,100:0369a1&height=32&text=TECHNICAL_STACK_%26_CAPABILITIES&fontSize=14&fontColor=ffffff&fontAlign=50" width="100%" />
@@ -106,10 +98,7 @@
 
 ---
 
-<!-- ================================================================= -->
-<!-- FEATURED PROJECT SYSTEMS                                          -->
-<!-- ================================================================= -->
-
+<!-- FEATURED PROJECT SYSTEMS -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1329,100:0369a1&height=32&text=FEATURED_BACKEND_PROJECTS&fontSize=14&fontColor=ffffff&fontAlign=50" width="100%" />
@@ -155,10 +144,7 @@
 
 ---
 
-<!-- ================================================================= -->
-<!-- DSA & ENGINEERING FLOW                                            -->
-<!-- ================================================================= -->
-
+<!-- DSA & ENGINEERING FLOW -->
 <div align="center">
 
 <a href="https://github.com/TakdirGhonmode">
@@ -169,10 +155,7 @@
 
 ---
 
-<!-- ================================================================= -->
-<!-- GITHUB LIVE TELEMETRY                                             -->
-<!-- ================================================================= -->
-
+<!-- GITHUB LIVE STATS -->
 <div align="center">
 
 <table border="0" width="100%">
@@ -185,21 +168,15 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=tokyonight&hide_border=true&background=06090e&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" width="100%" alt="Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakdirGhonmode&theme=tokyo-night&bg_color=06090e&hide_border=true&color=38bdf8&line=0284c7&point=93c5fd" width="100%" alt="Activity" />
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=tokyonight&hide_border=true&background=06090e&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" width="80%" alt="Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ================================================================= -->
-<!-- FOOTER WAVE                                                       -->
-<!-- ================================================================= -->
-
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,40:0b1329,100:06090e&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
