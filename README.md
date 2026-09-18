@@ -1,609 +1,196 @@
-````markdown
-<!-- =========================================================
-     TAKDIR GHONMODE
-     JAVA BACKEND DEVELOPER
-     ========================================================= -->
+```markdown
+<div align="center">
+
+<!-- ================================================================= -->
+<!-- DYNAMIC ANIMATED CYBER HERO                                       -->
+<!-- ================================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00e5ff,40:0d1117,100:090d16&height=200&section=header&text=TAKDIR%20GHONMODE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=JAVA%20BACKEND%20ARCHITECT%20%26%20SYSTEMS%20ENGINEER&descFontSize=14&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+
+<!-- PRIMARY TYPING ANIMATION -->
+<a href="https://github.com/TakdirGhonmode">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%E2%96%B6+BUILDING+RESILIENT+ENTERPRISE+BACKENDS;%E2%96%B6+SCALING+REST+APIS+WITH+SPRING+BOOT+%26+JPA;%E2%96%B6+OPTIMIZING+MYSQL+PERSISTENCE+PIPELINES;%E2%96%B6+MASTERING+ALGORITHMIC+PROBLEM+SOLVING" alt="Typing Banner" />
+</a>
+
+<!-- ACTION TELEMETRY BUTTONS -->
+<p align="center">
+  <a href="https://linkedin.com/in/takdir-ghonmode-26a862318/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TakdirGhonmode">
+    <img src="https://img.shields.io/badge/GITHUB_TERMINAL-181717?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/takdirghonmode3350">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TakdirGhonmode&style=for-the-badge&color=00e5ff&label=SYSTEM_TRAFFIC" alt="Profile Views" />
+</p>
+
+<!-- ANIMATED TERMINAL EMULATOR -->
+<a href="https://github.com/TakdirGhonmode">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00FF66&background=0D1117FF&center=false&vCenter=true&multiline=true&width=700&height=130&lines=%24+whoami+%E2%9E%9C+Takdir+Ghonmode+%5BJava+Backend+Engineer%5D;%24+java+--version+%E2%9E%9C+OpenJDK+17+Enterprise+Server+VM;%24+spring-boot+run+%E2%9E%9C+REST+Endpoints+ONLINE+%5BPort%3A+8080%5D;%24+git+status+%E2%9E%9C+Clean+Tree+%7C+Continuous+Deployment+ACTIVE;%24+curl+-X+GET+%2Fapi%2Fv1%2Fstatus+%E2%9E%9C+%7B+%22health%22%3A+%22100%25%22%2C+%22db%22%3A+%22CONNECTED%22+%7D" alt="Live Console" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ================================================================= -->
+<!-- BACKEND ARCHITECTURE PIPELINE                                     -->
+<!-- ================================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:111827,75:172554,100:020617&text=TAKDIR%20GHONMODE&fontSize=58&fontColor=38BDF8&fontAlignY=36&animation=fadeIn&desc=JAVA%20BACKEND%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=35&text=SYSTEM_ARCHITECTURE_%3A%3A_REQUEST_LIFECYCLE&fontSize=14&fontColor=00e5ff&fontAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=JAVA+%7C+SPRING+BOOT+%7C+REST+APIs;MYSQL+%7C+JPA+%7C+HIBERNATE;BACKEND+SYSTEMS+%7C+DATABASE+ENGINEERING;LEARN+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+IMPROVE"/>
-
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/TakdirGhonmode">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&height=35&lines=%5B+HTTP+CLIENT+%5D+%E2%9E%9E+%5B+CONTROLLER+%5D+%E2%9E%9E+%5B+SERVICE+%5D+%E2%9E%9E+%5B+REPOSITORY+%5D+%E2%9E%9E+%5B+MYSQL+DB+%5D;%E2%97%80+JSON+PAYLOAD+%E2%97%80+REST+MAPPING+%E2%97%80+BUSINESS+LOGIC+%E2%97%80+JPA%2FHIBERNATE+%E2%97%80+PERSISTENCE" alt="Architecture Stream" />
 </a>
 
-<a href="https://www.linkedin.com/in/takdir-ghonmode-26a862318/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://instagram.com/takdirghonmode3350">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postman,git,github,tomcat&perline=8&theme=dark" alt="Tech Arsenal" />
 
 </div>
 
-<br>
+<br/>
+
+<!-- ================================================================= -->
+<!-- INTERACTIVE SYSTEM RADAR (CORE STACK)                             -->
+<!-- ================================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:38BDF8,50:8B5CF6,100:22C55E"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=35&text=DEPLOYED_SYSTEMS_%26_MICROSERVICES&fontSize=14&fontColor=00e5ff&fontAlign=50" width="100%" />
 
-</div>
+<br/><br/>
 
-<!-- ========================= SYSTEM CORE ========================= -->
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     TAKDIR.DEV                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║       JAVA             ████████████████████████  ONLINE      ║
-║       SPRING BOOT      ██████████████████████░░  ONLINE      ║
-║       REST APIs        █████████████████████░░░  ONLINE      ║
-║       MYSQL            ████████████████████░░░░  ONLINE      ║
-║       JPA              ██████████████████░░░░░░  BUILDING    ║
-║       DSA              ███████████████░░░░░░░░░  TRAINING    ║
-║                                                              ║
-║                   SYSTEM STATUS : ONLINE                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-````
-
-</div>
-
-<br>
-
-<!-- ========================= TECH ICONS ========================= -->
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,postman,tomcat&perline=8"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JAVA-CORE-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-BACKEND-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-API-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ========================= ANIMATED IDENTITY ========================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=450&color=22C55E&center=true&vCenter=true&width=850&lines=%3E%3E+CODE+IS+THE+OUTPUT;%3E%3E+LOGIC+IS+THE+ENGINE;%3E%3E+DEBUGGING+IS+THE+PROCESS;%3E%3E+IMPROVEMENT+IS+THE+LOOP"/>
-
-</div>
-
-<br>
-
-<!-- ========================= ARCHITECTURE ========================= -->
-
-<h2 align="center">⚙ BACKEND ENGINE</h2>
-
-<div align="center">
-
-```text
-                         ┌───────────────────┐
-                         │      CLIENT       │
-                         │  WEB / POSTMAN    │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │    CONTROLLER     │
-                         │     REST API      │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │      SERVICE      │
-                         │  BUSINESS LOGIC   │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │    REPOSITORY     │
-                         │  JPA / HIBERNATE  │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │       MYSQL       │
-                         │      DATABASE     │
-                         └───────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=REQUEST+%E2%86%92+CONTROLLER+%E2%86%92+SERVICE+%E2%86%92+REPOSITORY+%E2%86%92+DATABASE;DATABASE+%E2%86%92+REPOSITORY+%E2%86%92+SERVICE+%E2%86%92+CONTROLLER+%E2%86%92+RESPONSE"/>
-
-</div>
-
----
-
-<!-- ========================= CURRENT FOCUS ========================= -->
-
-<h2 align="center">⚡ CURRENT FOCUS</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<th>MODULE</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td>☕ Java</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🌱 Spring Boot</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🔌 REST APIs</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🗄️ MySQL</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🧩 JPA / Hibernate</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🧪 Postman</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🧠 DSA</td>
-<td>🟡 TRAINING</td>
-</tr>
-
-<tr>
-<td>🏗️ Backend Architecture</td>
-<td>🟡 BUILDING</td>
-</tr>
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/01_JWT_SECURITY_SYSTEM-00e5ff?style=for-the-badge&logoColor=black" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=00FF66&center=true&width=300&height=30&lines=Auth+Filter+%E2%9E%9E+JWT+Token+%E2%9E%9E+Protected+API" alt="JWT Flow" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/02_ECOMMERCE_BACKEND-00e5ff?style=for-the-badge&logoColor=black" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=00FF66&center=true&width=300&height=30&lines=Product+Catalog+%E2%9E%9E+JPA+%E2%9E%9E+Media+Upload" alt="Ecom Flow" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/03_STUDENT_MANAGEMENT_API-00e5ff?style=for-the-badge&logoColor=black" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=00FF66&center=true&width=300&height=30&lines=CRUD+Ops+%E2%9E%9E+Layered+Arch+%E2%9E%9E+Data+Sync" alt="Student API Flow" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/04_PRODUCT_MANAGEMENT_API-00e5ff?style=for-the-badge&logoColor=black" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=00FF66&center=true&width=300&height=30&lines=REST+Contracts+%E2%9E%9E+Postman+Verified" alt="Product API Flow" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-<!-- ========================= PROJECTS ========================= -->
-
-<h2 align="center">🚀 PROJECT SYSTEMS</h2>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🎓 STUDENT MANAGEMENT API</h3>
+<!-- ================================================================= -->
+<!-- ALGORITHMIC MATRIX & RECURSIVE ENGINE                             -->
+<!-- ================================================================= -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=35&text=DSA_EXECUTION_PIPELINE&fontSize=14&fontColor=00e5ff&fontAlign=50" width="100%" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/CRUD-API-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/JPA-HIBERNATE-59666C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square"/>
-
-</div>
-
-```text
-STUDENT
-   ↓
-CONTROLLER
-   ↓
-SERVICE
-   ↓
-JPA
-   ↓
-MYSQL
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛒 E-COMMERCE BACKEND</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PRODUCT-API-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/IMAGE-UPLOAD-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square"/>
-
-</div>
-
-```text
-PRODUCT
-   ↓
-REST API
-   ↓
-SPRING BOOT
-   ↓
-MYSQL
-   ↓
-FRONTEND
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📦 PRODUCT MANAGEMENT</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postman"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CREATE-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/READ-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/UPDATE-FACC15?style=flat-square"/>
-<img src="https://img.shields.io/badge/DELETE-EF4444?style=flat-square"/>
-
-</div>
-
-```text
-CREATE
-  ↓
-READ
-  ↓
-UPDATE
-  ↓
-DELETE
-  ↓
-MYSQL
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔐 JWT AUTH SYSTEM</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JWT-AUTH-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/SPRING_SECURITY-6DB33F?style=flat-square"/>
-
-</div>
-
-```text
-REGISTER
-   ↓
-LOGIN
-   ↓
-JWT TOKEN
-   ↓
-AUTHORIZED REQUEST
-   ↓
-SECURE API
-```
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<!-- ========================= DSA ========================= -->
-
-<h2 align="center">🧠 DSA ENGINE</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1900&pause=600&color=FACC15&center=true&vCenter=true&width=900&lines=PATTERN+%E2%86%92+LOGIC+%E2%86%92+DRY+RUN+%E2%86%92+CODE+%E2%86%92+OPTIMIZE;UNDERSTAND+THE+PATTERN%2C+NOT+JUST+THE+CODE."/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ARRAYS-LEARNING-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BINARY_SEARCH-LEARNING-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RECURSION-LEARNING-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BACKTRACKING-LEARNING-FACC15?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-                         ┌───────────────┐
-                         │    PROBLEM    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │  UNDERSTAND   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │ FIND PATTERN  │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │ BUILD LOGIC   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   DRY RUN     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     CODE      │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │   OPTIMIZE    │
-                         └───────────────┘
-```
-
-</div>
-
----
-
-<!-- ========================= DEVELOPMENT PATH ========================= -->
-
-<h2 align="center">🧬 DEVELOPMENT PATH</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&lines=JAVA+%E2%86%92+OOP+%E2%86%92+SQL+%E2%86%92+SPRING+%E2%86%92+SPRING+BOOT;REST+%E2%86%92+JPA+%E2%86%92+PROJECTS+%E2%86%92+DSA+%E2%86%92+BACKEND"/>
-
-<br><br>
-
-```text
-JAVA
-  │
-  ▼
-OOP
-  │
-  ▼
-SQL / MYSQL
-  │
-  ▼
-SPRING
-  │
-  ▼
-SPRING BOOT
-  │
-  ▼
-REST APIs
-  │
-  ▼
-JPA / HIBERNATE
-  │
-  ▼
-BACKEND PROJECTS
-  │
-  ▼
-DSA
-  │
-  ▼
-BACKEND ENGINEERING
-```
-
-</div>
-
----
-
-<!-- ========================= GITHUB ANALYTICS ========================= -->
-
-<h2 align="center">📡 DEVELOPER TELEMETRY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TakdirGhonmode&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakdirGhonmode&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=transparent&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
-
-<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TakdirGhonmode/TakdirGhonmode/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-
-<h2 align="center">📈 ACTIVITY STREAM</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TakdirGhonmode&bg_color=00000000&color=38BDF8&line=22C55E&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<!-- ========================= TROPHIES ========================= -->
-
-<h2 align="center">🏆 ACHIEVEMENT MATRIX</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TakdirGhonmode&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-<!-- ========================= TERMINAL ========================= -->
-
-<h2 align="center">⌘ TERMINAL</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1500&pause=450&color=22C55E&center=true&vCenter=true&width=850&lines=%24+whoami;%24+java+--version;%24+spring+boot+run;%24+git+status;%24+git+add+.;%24+git+commit+-m+%22build%22;%24+git+push;%24+system.status%28%29+%3D+ONLINE"/>
-
-</div>
-
----
-
-<!-- ========================= ENGINEERING LOOP ========================= -->
-
-<h2 align="center">♻ ENGINEERING LOOP</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1300&pause=300&color=38BDF8&center=true&vCenter=true&width=900&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+FIX+%E2%86%92+REFACTOR+%E2%86%92+REPEAT"/>
-
-<br><br>
-
-```text
-       ┌──────────┐
-       │   LEARN  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BUILD   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BREAK   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  DEBUG   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │   FIX    │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ REFACTOR │
-       └────┬─────┘
-            │
-            └───────────────↻
-```
-
-</div>
-
----
-
-<!-- ========================= GITHUB IDENTITY ========================= -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB-TakdirGhonmode-111827?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/followers/TakdirGhonmode?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-
-<img src="https://img.shields.io/github/stars/TakdirGhonmode?style=for-the-badge&logo=github&label=STARS"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=TakdirGhonmode&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
-<!-- ========================= CONNECT ========================= -->
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/TakdirGhonmode">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/takdir-ghonmode-26a862318/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/takdirghonmode3350">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2200&pause=600&color=00FF66&center=true&vCenter=true&multiline=false&width=750&height=35&lines=%E2%9A%A1+PROBLEM+%E2%9E%9E+UNDERSTAND+%E2%9E%9E+PATTERN+%E2%9E%9E+LOGIC+%E2%9E%9E+DRY_RUN+%E2%9E%9E+CODE+%E2%9E%9E+OPTIMIZE;%E2%97%86+ARRAYS+%E2%97%86+BINARY_SEARCH+%E2%97%86+RECURSION+%E2%97%86+BACKTRACKING+%E2%97%86+SUBSEQUENCES" alt="DSA Pipeline" />
 </a>
 
 </div>
 
-<br>
+<br/>
 
-<!-- ========================= FINAL ANIMATION ========================= -->
+<!-- ================================================================= -->
+<!-- EVOLUTION TIMELINE & ENGINEERING LOOP                             -->
+<!-- ================================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=850&lines=JAVA+%E2%86%92+SPRING+BOOT+%E2%86%92+BACKEND;LOGIC+%E2%86%92+SYSTEMS+%E2%86%92+SOLUTIONS;BUILDING+TODAY+%E2%86%92+IMPROVING+EVERY+DAY"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=35&text=DEVELOPER_GROWTH_TRACK_%3A%3A_THE_ENGINEERING_LOOP&fontSize=14&fontColor=00e5ff&fontAlign=50" width="100%" />
 
-<br><br>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:020617,40:111827,70:172554,100:020617&animation=fadeIn"/>
+<a href="https://github.com/TakdirGhonmode">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&height=30&lines=JAVA+%E2%9E%9E+OOP+%E2%9E%9E+SQL+%E2%9E%9E+SPRING+%E2%9E%9E+BOOT+%E2%9E%9E+REST_API+%E2%9E%9E+HIBERNATE+%E2%9E%9E+SYSTEMS;%E2%86%BA+LEARN+%E2%9E%9E+BUILD+%E2%9E%9E+BREAK+%E2%9E%9E+DEBUG+%E2%9E%9E+FIX+%E2%9E%9E+REFACTOR+%E2%9E%9E+REPEAT+%E2%86%BA" alt="Growth and Loop" />
+</a>
 
 </div>
 
-<!-- =========================================================
-     TAKDIR.DEV // SYSTEM ONLINE
-     ========================================================= -->
+<br/>
 
-```
+<!-- ================================================================= -->
+<!-- DYNAMIC TELEMETRY & GITHUB METRICS                                -->
+<!-- ================================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=35&text=LIVE_TELEMETRY_DASHBOARD&fontSize=14&fontColor=00e5ff&fontAlign=50" width="100%" />
+
+<br/><br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TakdirGhonmode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00ff66&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakdirGhonmode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakdirGhonmode&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00ff66&currStreakLabel=00e5ff" width="100%" alt="Streak Counter" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakdirGhonmode&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00e5ff&line=00ff66&point=00e5ff" width="100%" alt="Activity Matrix" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================================================================= -->
+<!-- ANIMATED FOOTER & SOCKET TERMINATION                              -->
+<!-- ================================================================= -->
+
+<a href="https://linkedin.com/in/takdir-ghonmode-26a862318/">
+  <img src="https://img.shields.io/badge/INITIATE_CONTACT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="Connect" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/TakdirGhonmode">
+  <img src="https://img.shields.io/badge/FOLLOW_PIPELINE-181717?style=for-the-badge&logo=github&logoColor=00e5ff" alt="Follow" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:00e5ff&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
 ```
