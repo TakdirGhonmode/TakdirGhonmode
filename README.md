@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- ================================================================= -->
@@ -193,4 +193,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:00e5ff&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
-```
+
