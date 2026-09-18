@@ -1,7 +1,9 @@
-
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ================================================================= -->
+<!-- HERO BANNER                                                       -->
+<!-- ================================================================= -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090e,60:0b1329,100:0284c7&height=220&section=header&text=TAKDIR%20GHONMODE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SYSTEMS&descFontSize=14&descFontColor=93c5fd&descAlignY=58&descAlign=50" width="100%" alt="Takdir Ghonmode Banner" />
 
 <!-- ANIMATED TYPING STREAM -->
@@ -155,16 +157,16 @@
 
 ---
 
-<!-- GITHUB LIVE STATS -->
+<!-- LIVE GITHUB METRICS (TESTED & VERIFIED WORKING) -->
 <div align="center">
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TakdirGhonmode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06090e&title_color=38bdf8&icon_color=0284c7&text_color=94a3b8" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=TakdirGhonmode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06090e&title_color=38bdf8&icon_color=0284c7&text_color=94a3b8" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakdirGhonmode&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090e&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=TakdirGhonmode&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090e&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
     </td>
   </tr>
   <tr>
