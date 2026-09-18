@@ -1,13 +1,12 @@
-
 <div align="center">
 
 <!-- ================================================================= -->
-<!-- SLEEK EXECUTIVE BACKEND HERO BANNER                               -->
+<!-- HERO BANNER                                                       -->
 <!-- ================================================================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06090e,60:0b1329,100:0284c7&height=220&section=header&text=TAKDIR%20GHONMODE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SYSTEMS&descFontSize=14&descFontColor=93c5fd&descAlignY=58&descAlign=50" width="100%" alt="Takdir Ghonmode Banner" />
 
-<!-- ANIMATED TERMINAL TYPING STREAM -->
+<!-- ANIMATED TYPING STREAM -->
 <a href="https://github.com/TakdirGhonmode">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+JPA+%2F+Hibernate+%E2%80%A2+MySQL;Architecting+Scalable+Enterprise+Backend+Systems;Engineering+Clean%2C+Layered+Microservice+Pipelines;Optimizing+Algorithms+%26+Database+Performance" alt="Typing Stream" />
 </a>
@@ -35,25 +34,73 @@
 
 ---
 
-<div align="center">
-
 <!-- ================================================================= -->
 <!-- ARCHITECTURE FLOW                                                 -->
 <!-- ================================================================= -->
+
+<div align="center">
 
 <a href="https://github.com/TakdirGhonmode">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&height=35&lines=%E2%9E%A4+CLIENT+%E2%96%B6+CONTROLLER+%E2%96%B6+SERVICE+LAYER+%E2%96%B6+REPOSITORY+%E2%96%B6+MYSQL+DB;%E2%97%80+HTTP%2FJSON+%E2%97%80+DTO+MAPPING+%E2%97%80+BUSINESS+LOGIC+%E2%97%80+JPA%2FHIBERNATE+%E2%97%80+SQL" alt="Architecture" />
 </a>
 
+</div>
+
+---
+
+<!-- ================================================================= -->
+<!-- CATEGORIZED TECH STACK MATRIX                                     -->
+<!-- ================================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1329,100:0369a1&height=32&text=TECHNICAL_STACK_%26_CAPABILITIES&fontSize=14&fontColor=ffffff&fontAlign=50" width="100%" />
+
 <br/><br/>
 
-<!-- ================================================================= -->
-<!-- CORE TECH STACK                                                   -->
-<!-- ================================================================= -->
-
-<a href="https://github.com/TakdirGhonmode">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postman,git,github,tomcat&perline=8&theme=dark" alt="Tech Stack" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/01_LANGUAGES-0284c7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,js&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=93C5FD&center=true&width=280&height=25&lines=Java+17%2B+%E2%80%A2+Core+JavaScript" alt="Languages" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/02_BACKEND_FRAMEWORKS-0284c7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,tomcat&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=93C5FD&center=true&width=280&height=25&lines=Spring+Boot+%E2%80%A2+Hibernate+%E2%80%A2+Tomcat" alt="Frameworks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/03_DATABASES_%26_PERSISTENCE-0284c7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,hibernate&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=93C5FD&center=true&width=280&height=25&lines=MySQL+RDBMS+%E2%80%A2+JPA+Mapping" alt="Databases" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/04_TOOLS_%26_INFRASTRUCTURE-0284c7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman,git,github&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=93C5FD&center=true&width=280&height=25&lines=Postman+%E2%80%A2+Git+%E2%80%A2+GitHub+CI%2FCD" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://img.shields.io/badge/05_WEB_FUNDAMENTALS-0284c7?style=for-the-badge&logoColor=white" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/>
+      <a href="https://github.com/TakdirGhonmode">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&color=93C5FD&center=true&width=350&height=25&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+Client+Integration" alt="Web" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -139,7 +186,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TakdirGhonmode&theme=tokyonight&hide_border=true&background=06090e&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" width="100%" alt="Streak" />
+      <img src="https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=tokyonight&hide_border=true&background=06090e&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" width="100%" alt="Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakdirGhonmode&theme=tokyo-night&bg_color=06090e&hide_border=true&color=38bdf8&line=0284c7&point=93c5fd" width="100%" alt="Activity" />
