@@ -1,18 +1,245 @@
-# 💫 About Me:
-🔭 I’m currently working on Java & Spring Boot backend projects<br>👯 I’m looking to collaborate on Backend & Open Source projects<br>🌱 I’m currently learning Spring Boot, Hibernate & Advanced DSA<br>💬 Ask me about Java, REST APIs, Spring Boot & MySQL<br>⚡ Fun fact: I love building real-world backend applications 🚀
+# TAKDIR GHONMODE
 
+### Java Backend Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takdirghonmode3350) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/takdir-ghonmode-26a862318/) 
+**Java • Spring Boot • REST APIs • MySQL • JPA / Hibernate**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TakdirGhonmode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=TakdirGhonmode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TakdirGhonmode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build backend applications with **Java and Spring Boot**, focusing on REST APIs, database-driven applications, clean architecture, and practical problem solving.
+
+Currently strengthening my skills in **Spring Boot, backend architecture, SQL, and DSA** through projects and consistent problem solving.
 
 ---
-[![](https://komarev.com/ghpvc/?username=TakdirGhonmode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` — BACKEND FOCUS
+
+```text
+Java
+  └── OOP & Core Java
+        └── Spring
+              └── Spring Boot
+                    ├── REST APIs
+                    ├── Dependency Injection
+                    ├── Layered Architecture
+                    └── Exception Handling
+                          │
+                          └── JPA / Hibernate
+                                │
+                                └── MySQL
+```
+
+### What I Work With
+
+* REST API Development
+* CRUD Applications
+* Database Integration
+* JPA / Hibernate
+* Dependency Injection
+* Layered Architecture
+* Exception Handling
+* API Testing with Postman
+* Git & GitHub Workflow
+
+---
+
+## `02` — CURRENTLY BUILDING
+
+### Backend Development
+
+> Building and improving Java + Spring Boot applications while learning how real backend systems are structured.
+
+### Currently Improving
+
+* Advanced Java
+* Spring Boot
+* REST API Design
+* SQL & Database Design
+* JPA / Hibernate
+* Backend Architecture
+* DSA & Problem Solving
+
+---
+
+## `03` — FEATURED PROJECTS
+
+### Student Management API
+
+**Java • Spring Boot • JPA • MySQL • REST API**
+
+Backend application for managing student records through REST APIs and database persistence.
+
+**Focus:**
+`CRUD Operations` · `REST API` · `JPA/Hibernate` · `MySQL`
+
+---
+
+### Product Management API
+
+**Java • Spring Boot • REST API • MySQL**
+
+Backend application for managing products through API endpoints and persistent database storage.
+
+**Focus:**
+`API Development` · `CRUD` · `Database Integration` · `Postman`
+
+---
+
+### E-Commerce Backend
+
+**Java • Spring Boot • JPA • MySQL**
+
+Backend development for an e-commerce application, focusing on product management, API development, database persistence, and backend functionality.
+
+**Focus:**
+`Spring Boot` · `REST APIs` · `JPA` · `MySQL`
+
+---
+
+> More projects and improvements are continuously being added.
+
+---
+
+## `04` — PROBLEM SOLVING
+
+I use DSA to improve the way I approach programming problems rather than only memorizing solutions.
+
+### Currently Practicing
+
+* Arrays
+* Searching
+* Binary Search
+* Recursion
+* Backtracking
+* Subsequence Patterns
+* Problem-Solving Patterns
+
+### My Approach
+
+```text
+Understand the Problem
+          ↓
+Identify the Pattern
+          ↓
+Build the Logic
+          ↓
+Dry Run with an Example
+          ↓
+Write the Solution
+          ↓
+Analyze Complexity
+          ↓
+Improve
+```
+
+---
+
+## `05` — DEVELOPER JOURNEY
+
+```text
+Core Java
+    ↓
+OOP
+    ↓
+SQL
+    ↓
+Spring
+    ↓
+Spring Boot
+    ↓
+REST APIs
+    ↓
+JPA / Hibernate
+    ↓
+Backend Projects
+    ↓
+DSA & Problem Solving
+```
+
+The goal isn't to learn every technology.
+
+The goal is to become **strong at building reliable backend applications.**
+
+---
+
+## `06` — TECHNOLOGY STACK
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square\&logo=apache-tomcat\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+### Frontend — Supporting Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+---
+
+## `07` — ENGINEERING MINDSET
+
+```text
+Build → Test → Understand → Refactor → Repeat
+```
+
+I try to understand **why** something works before moving to the next problem.
+
+My current focus is developing the fundamentals required to build backend systems that are:
+
+* Clear
+* Maintainable
+* Database-driven
+* API-oriented
+* Easy to test
+* Easy to improve
+
+---
+
+## `08` — GITHUB
+
+I use GitHub to document my learning through:
+
+* Backend Projects
+* DSA Practice
+* Java Experiments
+* Spring Boot Applications
+* Problem-Solving Implementations
+
+### GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TakdirGhonmode\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TakdirGhonmode\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## `09` — CONNECT
+
+I'm interested in connecting with developers, collaborating on backend projects, and learning through real-world development.
+
+**LinkedIn**
+[linkedin.com/in/takdir-ghonmode-26a862318](https://www.linkedin.com/in/takdir-ghonmode-26a862318/)
+
+**Instagram**
+[instagram.com/takdirghonmode3350](https://instagram.com/takdirghonmode3350)
+
+**GitHub**
+[github.com/TakdirGhonmode](https://github.com/TakdirGhonmode)
+
+---
+
+### `BUILDING BACKENDS. SOLVING PROBLEMS. LEARNING EVERY DAY.`
+
+<!-- Profile README maintained by Takdir Ghonmode -->
